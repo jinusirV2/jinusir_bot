@@ -34,7 +34,7 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
     
-    ⚡ ` + Config.AFN + ` ⚡
+    ⚡ ` + JINUSIR + ` ⚡
 `}) 
 
 }));
