@@ -10,6 +10,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
     var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*THIS BOT CREATED BY JINUSIR*
+─────────────────────────────────────────────────────────────────
 *GITHUB LINK: https://github.com/jinusirV2/jinusir_bot*
 
 *CREATER INSTA: https://instagram.com/jinu__777?utm_medium=copy_link*
