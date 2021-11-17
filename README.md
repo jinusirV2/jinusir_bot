@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="https://i.ibb.co/MnW7T9h/20211117-205913.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://i.ibb.co/8X1zZZG/Pics-Art-11-16-05-50-00.jpg" alt="GIF" width="250" height="250"/>
+        <img src="https://i.ibb.co/hWQ83gj/20211117-202942.jpg" alt="GIF" width="250" height="250"/>
 </p>
 
 <div align="center">
@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 
 ##
-  <h3 align="center">📢 Support Group 1:</h3>
+  <h3 align="center">📢 Support wa Group :</h3>
 <p align="center">
 Click WA logo to Join Support Group 👇
     <br>
