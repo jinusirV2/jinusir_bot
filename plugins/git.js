@@ -9,20 +9,20 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*THIS BOT CREATED BY JINUSIR*
+*GITHUB LINK: https://github.com/jinusirV2/jinusir_bot*
 
-*Bot setting video : https://youtu.be/_D4ZYuUSXjs*
+*CREATER INSTA: https://instagram.com/jinu__777?utm_medium=copy_link*
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
+*CREATER WA NUMBER:    http://wa.me/+917356624702*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*JINUSIR WA GROUP:   https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI*
 
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*JINUSIR MOVIE WEBSITE: www.jinmovies.ga*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
 
-*For More Updates Subscribe The Channel ☝*
+
+
 `}) 
 
 }));
