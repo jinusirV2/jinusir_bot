@@ -14,7 +14,7 @@
 <a href="#"><img title="JINUSIR V.2" src="https://img.shields.io/badge/JINUSIR-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/jinusirV2/jinusir_bot"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/jinusirV2/jinusir_bot"><img title="Author" src="https://img.shields.io/badge/Author-jinusir-jinu/jinusir_bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -34,12 +34,6 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
 
 
-<p align="center">
-
-<p>&nbsp;<img align="center" src="" alt="jinusir-bot" /></p>
-
-<p><img align="center" src="" alt="jinusir-bot" /></p>
-</p>
 
 
 ##
