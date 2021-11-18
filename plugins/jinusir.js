@@ -18,13 +18,13 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
 
-    Asena.addCommand({pattern: 'jinusir', fromMe: true, desc: 'random jinusir video' }, (async (message, match) => {
+    Asena.addCommand({pattern: 'jinusir', fromMe: true, desc: 'random jinusir image' }, (async (message, match) => {
 
     var r_text = new Array ();
 
-      r_text[0] = "https://i.ibb.co/8X1zZZG/Pics-Art-11-16-05-50-00.jpg";
-      r_text[0] = "https://i.ibb.co/ph7q7w8/Pics-Art-10-01-06-55.png";
-      r_text[0] = "https://i.ibb.co/wMm12js/Pics-Art-10-02-02-56.jpg";
+r_text[0] = "https://i.ibb.co/8X1zZZG/Pics-Art-11-16-05-50-00.jpg";
+r_text[1] = "https://i.ibb.co/ph7q7w8/Pics-Art-10-01-06-55.png";
+r_text[3] = "https://i.ibb.co/wMm12js/Pics-Art-10-02-02-56.jpg";
       
       
       var i = Math.floor(201*Math.random())
