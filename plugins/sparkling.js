@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 ameer-kallumthodi.
+/* Copyright (C) 2021 jinusir-jinu.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 JINUSIR*/
