@@ -216,7 +216,7 @@
         },
         "updater": {
             "UPDATER_DESC": "Checks the update.",
-            "UPDATE": "*Your bot is completely up-to-date!*",
+            "UPDATE": "*Your bot this time no update available!*",
             "NEW_UPDATE": "*jinusir bot Update Available*\n\n please join WhatsApp group. error problem maximum oyivaakkam\n entelum doubt undel insta yil message ayakk https://instagram.com/jinu__777?utm_medium=copy_link \n https://chat.whatsapp.com/BXmi7So4IbDKyvV3WaB7iI \n\nChanges:\n```",
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```Updating..💤```",
